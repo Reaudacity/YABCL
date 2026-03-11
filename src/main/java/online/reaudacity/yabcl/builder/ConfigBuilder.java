@@ -1,4 +1,4 @@
-package online.reaudacity.builder;
+package online.reaudacity.yabcl.builder;
 
 import online.reaudacity.yabcl.log.YabclLogger;
 import online.reaudacity.yabcl.registry.ConfigRegistry;

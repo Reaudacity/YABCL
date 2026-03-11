@@ -1,9 +1,8 @@
-package online.reaudacity.builder;
+package online.reaudacity.yabcl.builder;
 
 import online.reaudacity.yabcl.exception.ConfigLoadException;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.jetbrains.annotations.NotNull;
-import org.jetbrains.annotations.Nullable;
 
 import java.util.List;
 
