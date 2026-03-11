@@ -1,8 +1,3 @@
----
-sidebar_position: 1
-title: Introduction
----
-
 # Introduction
 
 **YABCL** (*Yet Another Boring Config Library*) is a modern configuration framework for Minecraft plugins designed to eliminate the repetitive boilerplate that comes with managing YAML config files.
