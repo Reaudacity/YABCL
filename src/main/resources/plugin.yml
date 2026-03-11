@@ -1,0 +1,4 @@
+name: YABCL
+version: '0.0.1'
+main: online.reaudacity.yabcl.YABCLPlugin
+api-version: '1.21'
